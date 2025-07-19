@@ -1,0 +1,26 @@
+# Hi, I'm Snigdha 👋
+
+I'm a software engineering student passionate about building scalable web apps, learning new technologies, and solving real-world problems with code. I'm currently focused on gaining hands-on experience through projects and internships in full-stack and AI/ML domains.
+
+## 🔧 Tech Stack
+- **Languages:** Java, Python, C++, Swift
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js
+- **Databases:** MongoDB, PostgreSQL, Azure Cosmos DB
+- **Cloud & Tools:** Azure, GitHub Actions, Docker, Vercel
+
+## 📂 Projects
+- **Inventory ML App** – Real-time stock tracking and predictive restocking using Azure ML, Blazor, and Cosmos DB
+- **[Portfolio Website](your-portfolio-link)** – Personal site showcasing my work, blog posts, and resume
+- **More Projects** – Explore pinned repositories below ⬇️
+
+## 📌 Current Focus
+- Applying for **SWE internships**
+- Building out my [portfolio](your-portfolio-link)
+- Deepening my skills in **machine learning** and **cloud services**
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/snigdha-tiwari-0b6227251/)
+- [Email](mailto:snigdha.17.tiwari@gmail.com)
+
+Thanks for stopping by!
