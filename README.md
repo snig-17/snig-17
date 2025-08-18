@@ -11,7 +11,7 @@ I'm a software engineering student passionate about building scalable web apps, 
 
 ## 📂 Projects
 - **Inventory ML App** – Real-time stock tracking and predictive restocking using Azure ML, Blazor, and Cosmos DB
-- **[Portfolio Website]([snig-17/portfolio])** – Personal site showcasing my work and resume
+- **[Portfolio Website]([/portfolio])** – Personal site showcasing my work and resume
 - **More Projects** – Explore pinned repositories below ⬇️
 
 ## 📌 Current Focus
