@@ -6,8 +6,8 @@ I'm a software engineering student passionate about building scalable web apps, 
 - **Languages:** Java, Python, C++, Swift
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js
-- **Databases:** MongoDB, PostgreSQL, Azure Cosmos DB
-- **Cloud & Tools:** Azure, GitHub Actions, Docker, Vercel
+- **Databases:** Fireestore, PostgreSQL,
+- **Cloud & Tools:** GitHub Actions, Docker, Vercel
 
 ## 📂 Projects
 - **Inventory ML App** – Real-time stock tracking and predictive restocking using Azure ML, Blazor, and Cosmos DB
