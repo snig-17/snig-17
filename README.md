@@ -18,6 +18,9 @@ I'm a software engineering student passionate about building scalable web apps, 
 - Applying for **SWE internships**
 - Deepening my skills in **machine learning** and **cloud services**
 
+## 📈 My Stats
+[![Snigdha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snig-17)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/snigdha-tiwari-0b6227251/)
 - [Email](mailto:snigdha.17.tiwari@gmail.com)
