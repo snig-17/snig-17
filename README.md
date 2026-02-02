@@ -6,13 +6,11 @@ I'm a software engineering student passionate about building scalable web apps, 
 - **Languages:** Java, Python, C++, Swift
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js
-- **Databases:** Firestore, PostgreSQL, MongoDB
+- **Databases:** Firestore, PostgreSQL, MongoDB, Cloudflare D1
 - **Cloud & Tools:** GitHub Actions, Docker, Vercel
 
 ## 📂 Projects
-- **Inventory ML App** – Real-time stock tracking and predictive restocking using Azure ML, Blazor, and Mongo DB
-- **[Portfolio Website](https://snig-17.github.io/portfolio)** – Personal site showcasing my work and resume
-- **More Projects** – Explore pinned repositories below ⬇️
+-  Explore pinned repositories below ⬇️
 
 ## 📌 Current Focus
 - Applying for **SWE internships**
